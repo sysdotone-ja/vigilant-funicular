@@ -1,0 +1,11 @@
+accounts.google.com
+mail.google.com
+gemini.google.com
+drive.google.com
+login.yahoo.com
+mail.yahoo.com
+gmail.com
+dropbox.com
+account.box.com
+login.live.com
+onedrive.live.com
